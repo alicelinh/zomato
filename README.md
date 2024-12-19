@@ -1,10 +1,10 @@
-# Zomato Insights: Analyzing Popular Restaurants in India
+# Zomato Insights: Analysing Popular Restaurants in India
 
 ![image](https://github.com/user-attachments/assets/11bed77f-fbfa-4dc7-82cf-89c11dc7f403)
 
 
 ## Introduction
-Zomato is India's largest online platform offering comprehensive information, menus, and user reviews of restaurants across various venues. It helps users select the perfect dining spot by providing detailed insights into restaurant offerings, diverse cuisines, taste preferences, and other viable options. This Kaggle dataset comprises a collection of restaurants registered on Zomato in Bengaluru City. The dataset contains over 50,000 rows and 17 columns, offering a wealth of information to explore. By cleaning, transforming, analyzing, and visualizing the data, the aim is to delve into Zomato's extensive database to uncover hidden patterns, analyze customer behaviors, and identify trends reflecting the evolving tastes of Indian consumers.
+Zomato is India's largest online platform offering comprehensive information, menus, and user reviews of restaurants across various venues. It helps users select the perfect dining spot by providing detailed insights into restaurant offerings, diverse cuisines, taste preferences, and other viable options. This Kaggle dataset comprises a collection of restaurants registered on Zomato in Bengaluru City. The dataset contains over 50,000 rows and 17 columns, offering a wealth of information to explore. By cleaning, transforming, analysing, and visualising the data, the aim is to delve into Zomato's extensive database to uncover hidden patterns, analyse customer behaviors, and identify trends reflecting the evolving tastes of Indian consumers.
 
 
 ## Table of Contents
@@ -12,7 +12,7 @@ Zomato is India's largest online platform offering comprehensive information, me
 - [Features](#features)
 - [Analysis](#analysis)
 - [Results](#results)
-- [Visualization](#visualization)
+- [Visualisation](#visualisation)
 
 
 ## Features
@@ -51,7 +51,7 @@ This is a categorical variable representing the location of the restaurant.
   - Feature with Few Missing Values: Drop rows containing missing values if the missing values in that feature account for less than 5% of the dataset.
 
 ### Exploratory Data Analysis (EDA) and Data Visualisation
-- Analyze each feature to identify trends and patterns. Use appropriate visualizations such as:
+- Analyse each feature to identify trends and patterns. Use appropriate visualisations such as:
   - Pie Chart: For categorical features like online order and book table.
   - Histogram: To understand the distribution of numerical features like ratings or costs.
   - Bar Chart: For comparing categories, e.g., the number of restaurants by location or cuisine.
@@ -77,5 +77,5 @@ This is a categorical variable representing the location of the restaurant.
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
 
 
-## Visualization
+## Visualisation
 Tableau interative dashboard is available to explore more about the data insights: https://public.tableau.com/shared/Y2PYDT2BB?:display_count=n&:origin=viz_share_link
