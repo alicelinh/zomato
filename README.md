@@ -46,9 +46,9 @@ This is a categorical variable representing the location of the restaurant.
 - Identify and remove duplicate rows from the dataset to ensure data integrity.
 - Identify redundant columns and drop them
 - Handle missing values by:
- - Numerical Features: Fill missing values with the mean of the respective column.
- - Categorical Features: Fill missing values with the placeholder value "Unknown."
- - Feature with Few Missing Values: Drop rows containing missing values if the missing values in that feature account for less than 5% of the dataset.
+  - Numerical Features: Fill missing values with the mean of the respective column.
+  - Categorical Features: Fill missing values with the placeholder value "Unknown."
+  - Feature with Few Missing Values: Drop rows containing missing values if the missing values in that feature account for less than 5% of the dataset.
 
 ### Exploratory Data Analysis (EDA) and Data Visualisation
 - Analyze each feature to identify trends and patterns. Use appropriate visualizations such as:
@@ -56,24 +56,24 @@ This is a categorical variable representing the location of the restaurant.
   - Histogram: To understand the distribution of numerical features like ratings or costs.
   - Bar Chart: For comparing categories, e.g., the number of restaurants by location or cuisine.
 - Explore the correlation between each feature by plotting:
- - Between Numerical Feature and Categorical Feature: Box Plot, Bar Chart
- - Between 2 Numerical Features: Scatter Plot, Heat Map
+  - Between Numerical Feature and Categorical Feature: Box Plot, Bar Chart
+  - Between 2 Numerical Features: Scatter Plot, Heat Map
 - Identify top performing restaurant chains, restaurant types, and cuisines.
 - Some business questions to explore:
- - Which types of restaurants are most likely to offer online order and table booking?
- - Are there cuisines that have high ratings but relatively few restaurants, indicating a market opportunity to expand those offerings?
- - What common characteristics do the top 10% of restaurants (by rating) share?
- - Which cuisines have the highest average rating, and what does that say about customer preferences?
+  - Which types of restaurants are most likely to offer online order and table booking?
+  - Are there cuisines that have high ratings but relatively few restaurants, indicating a market opportunity to expand those offerings?
+  - What common characteristics do the top 10% of restaurants (by rating) share?
+  - Which cuisines have the highest average rating, and what does that say about customer preferences?
 
 
 ## Results
 - Cuisine Trends: Identified some popular cuisines such as North Indian, Chinese, and Cafe.
 - Top Restaurant Types: Microbrewery & Casual Dining is the best restaurant type with an average rating of more than 4.3.
 - Outstanding characteristics of the top 10% highest-rated restaurants:
- - They are more likely to accept table bookings.
- - Casual Dining, Bar, and Pub are popular restaurant types among the top 10%.
- - These restaurants generally have a higher price range compared to those outside the top 10%.
- - They are frequently located in bustling commercial centers where high-end dining experiences are sought after.
+  - They are more likely to accept table bookings.
+  - Casual Dining, Bar, and Pub are popular restaurant types among the top 10%.
+  - These restaurants generally have a higher price range compared to those outside the top 10%.
+  - They are frequently located in bustling commercial centers where high-end dining experiences are sought after.
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
 
 
