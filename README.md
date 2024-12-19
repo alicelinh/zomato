@@ -12,7 +12,7 @@ Zomato is India's largest online platform offering comprehensive information, me
 - [Features](#features)
 - [Analysis](#analysis)
 - [Results](#results)
-- [Visualisation (Tableau Interactive Dashboard)](#visualisation (tableau interactive dashboard)
+- [Visualisation (Tableau Interactive Dashboard)](#visualisation-tableau-interactive-dashboard)
 
 
 ## Features
