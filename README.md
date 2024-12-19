@@ -12,7 +12,7 @@ Zomato is India's largest online platform offering comprehensive information, me
 - [Features](#features)
 - [Analysis](#analysis)
 - [Results](#results)
-- [Visualisation](#visualisation)
+- [Visualisation (Tableau Interactive Dashboard)](#visualisation (tableau interactive dashboard)
 
 
 ## Features
@@ -77,5 +77,5 @@ This is a categorical variable representing the location of the restaurant.
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
 
 
-## Visualisation
+## Visualisation (Tableau Interactive Dashboard)
 Tableau interative dashboard is available to explore more about the data insights: https://public.tableau.com/shared/Y2PYDT2BB?:display_count=n&:origin=viz_share_link
