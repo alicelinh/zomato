@@ -9,11 +9,16 @@ Zomato is India's largest online platform offering comprehensive information, me
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Dataset](#dataset)
 - [Features](#features)
 - [Analysis](#analysis)
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Visualisation (Tableau Interactive Dashboard)](#visualisation-tableau-interactive-dashboard)
+
+
+## Dataset
+Link to the dataset: https://www.kaggle.com/datasets/rajeshrampure/zomato-dataset/data
 
 
 ## Features
