@@ -56,7 +56,7 @@ This is a categorical variable representing the location of the restaurant.
   - Histogram: To understand the distribution of numerical features like ratings or costs.
   - Bar Chart: For comparing categories, e.g., the number of restaurants by location or cuisine.
 ![image](https://github.com/user-attachments/assets/14a984d4-8018-4d5f-b07b-8a13c3aeae57)
-![image](https://github.com/user-attachments/assets/c842414b-96b0-48e9-934c-0aefc9ef4cf0)
+![image](https://github.com/user-attachments/assets/56bd3093-e4a1-4a97-b44b-b134708a1ba3)
 
 - Explore the correlation between each feature by plotting:
   - Between Numerical Feature and Categorical Feature: Box Plot, Bar Chart
