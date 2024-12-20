@@ -55,10 +55,15 @@ This is a categorical variable representing the location of the restaurant.
   - Pie Chart: For categorical features like online order and book table.
   - Histogram: To understand the distribution of numerical features like ratings or costs.
   - Bar Chart: For comparing categories, e.g., the number of restaurants by location or cuisine.
+![image](https://github.com/user-attachments/assets/14a984d4-8018-4d5f-b07b-8a13c3aeae57)
+![image](https://github.com/user-attachments/assets/c842414b-96b0-48e9-934c-0aefc9ef4cf0)
+
 - Explore the correlation between each feature by plotting:
   - Between Numerical Feature and Categorical Feature: Box Plot, Bar Chart
   - Between 2 Numerical Features: Scatter Plot, Heat Map
-- Identify top performing restaurant chains, restaurant types, and cuisines.
+![image](https://github.com/user-attachments/assets/cf366761-ab42-4d7d-a31d-d3f32589de25)
+![image](https://github.com/user-attachments/assets/4a920b46-7954-4df3-ba92-e90c5c30a7b8)
+
 - Some business questions to explore:
   - Which types of restaurants are most likely to offer online order and table booking?
   - Are there cuisines that have high ratings but relatively few restaurants, indicating a market opportunity to expand those offerings?
@@ -67,14 +72,24 @@ This is a categorical variable representing the location of the restaurant.
 
 
 ## Results
-- Cuisine Trends: Identified some popular cuisines such as North Indian, Chinese, and Cafe.
+- Cuisine Trends: Identified some popular cuisines such as North Indian, Chinese, and South Indian.
+![image](https://github.com/user-attachments/assets/f2a6cf80-3dce-49f2-9e10-9a4e918df24a)
+
 - Top Restaurant Types: Microbrewery & Casual Dining is the best restaurant type with an average rating of more than 4.3.
+![image](https://github.com/user-attachments/assets/992d0581-30ee-4a25-ad9e-5706e266abd1)
+
 - Outstanding characteristics of the top 10% highest-rated restaurants:
   - They are more likely to accept table bookings.
   - Casual Dining, Bar, and Pub are popular restaurant types among the top 10%.
   - These restaurants generally have a higher price range compared to those outside the top 10%.
   - They are frequently located in bustling commercial centers where high-end dining experiences are sought after.
+![image](https://github.com/user-attachments/assets/19c80361-171b-4456-bbf0-3981ff5cadc7)
+![image](https://github.com/user-attachments/assets/b56c0216-8efc-4536-927f-ecb516b0fbf2)
+![image](https://github.com/user-attachments/assets/2315eaa2-6884-489c-954e-1a3e86d8beb9)
+![image](https://github.com/user-attachments/assets/ea0593f4-da31-4eb6-bcde-fbce518e1af5)
+
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
+![image](https://github.com/user-attachments/assets/36c03e00-c602-4e05-81db-aeb2e46c1619)
 
 
 ## Visualisation (Tableau Interactive Dashboard)
