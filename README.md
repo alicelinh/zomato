@@ -61,8 +61,8 @@ This is a categorical variable representing the location of the restaurant.
 - Explore the correlation between each feature by plotting:
   - Between Numerical Feature and Categorical Feature: Box Plot, Bar Chart
   - Between 2 Numerical Features: Scatter Plot, Heat Map
-![image](https://github.com/user-attachments/assets/cf366761-ab42-4d7d-a31d-d3f32589de25)
-![image](https://github.com/user-attachments/assets/4a920b46-7954-4df3-ba92-e90c5c30a7b8)
+![image](https://github.com/user-attachments/assets/29c90649-7b12-48af-8dcf-952c1bc8c497)
+![image](https://github.com/user-attachments/assets/dbd5127d-9cf7-4a8b-bbfe-20fdf7847a2b)
 
 - Some business questions to explore:
   - Which types of restaurants are most likely to offer online order and table booking?
@@ -73,7 +73,7 @@ This is a categorical variable representing the location of the restaurant.
 
 ## Results
 - Cuisine Trends: Identified some popular cuisines such as North Indian, Chinese, and South Indian.
-![image](https://github.com/user-attachments/assets/f2a6cf80-3dce-49f2-9e10-9a4e918df24a)
+![image](https://github.com/user-attachments/assets/56bd3093-e4a1-4a97-b44b-b134708a1ba3)
 
 - Top Restaurant Types: Microbrewery & Casual Dining is the best restaurant type with an average rating of more than 4.3.
 ![image](https://github.com/user-attachments/assets/992d0581-30ee-4a25-ad9e-5706e266abd1)
@@ -83,13 +83,13 @@ This is a categorical variable representing the location of the restaurant.
   - Casual Dining, Bar, and Pub are popular restaurant types among the top 10%.
   - These restaurants generally have a higher price range compared to those outside the top 10%.
   - They are frequently located in bustling commercial centers where high-end dining experiences are sought after.
-![image](https://github.com/user-attachments/assets/19c80361-171b-4456-bbf0-3981ff5cadc7)
-![image](https://github.com/user-attachments/assets/b56c0216-8efc-4536-927f-ecb516b0fbf2)
-![image](https://github.com/user-attachments/assets/2315eaa2-6884-489c-954e-1a3e86d8beb9)
-![image](https://github.com/user-attachments/assets/ea0593f4-da31-4eb6-bcde-fbce518e1af5)
+![image](https://github.com/user-attachments/assets/4421503d-ee64-4f54-b8b4-35c63e86b668)
+![image](https://github.com/user-attachments/assets/6b076024-d6a4-474c-b4e3-ff809350a335)
+![image](https://github.com/user-attachments/assets/ec338a9a-2d2c-4518-b497-f7b173c3ef64)
+![image](https://github.com/user-attachments/assets/8607b12f-f6b2-4a52-8add-b07ea7c2fbd5)
 
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
-![image](https://github.com/user-attachments/assets/36c03e00-c602-4e05-81db-aeb2e46c1619)
+![image](https://github.com/user-attachments/assets/2c8d64e7-15e6-4acc-a7a2-b110109737fa)
 
 
 ## Visualisation (Tableau Interactive Dashboard)
