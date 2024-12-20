@@ -12,6 +12,7 @@ Zomato is India's largest online platform offering comprehensive information, me
 - [Features](#features)
 - [Analysis](#analysis)
 - [Results](#results)
+- [Recommendations](#recommendations)
 - [Visualisation (Tableau Interactive Dashboard)](#visualisation-tableau-interactive-dashboard)
 
 
@@ -90,6 +91,30 @@ This is a categorical variable representing the location of the restaurant.
 
 - Opportunity cuisines: Certain cuisines, such as Cantonese, African, and Malaysian, have exceptionally high ratings but are represented by a relatively small number of restaurants, indicating potential opportunities for growth and market expansion.
 ![image](https://github.com/user-attachments/assets/2c8d64e7-15e6-4acc-a7a2-b110109737fa)
+
+
+## Recommendations
+### Locations: bustling commerical centers
+These areas, being famous tourist attractions, attract many visitors who can experience your restaurant. Additionally, they are home to many young professionals willing to spend on trying new cuisines and dishes.
+
+### Cuisines
+Opportunity cuisines such as Cantonese, African, and Southeast Asian hold great potential. These cuisines have relatively high average ratings (around 4.5/5.0), yet only a small number of restaurants offer them, presenting a growth opportunity.
+
+### Service: Table Booking
+A significant number of top 10% restaurants offer table booking services, whereas most outside the top 10% do not. Allowing table bookings can enhance customer convenience, as it allows diners to plan their visit and avoid waiting times.
+
+### Restaurant Types
+Casual Dining is the most popular restaurant type among the top 10%. These restaurants stand out because they:
+- Are affordable to a broad audience.
+- Offer diverse menus.
+- Provide excellent service that appeals to many customers.
+
+### Others
+#### For business
+If you are planning to open a new restaurant in Bengaluru and aim for a high rating, explore my Tableau Interactive Dashboard: https://public.tableau.com/shared/Y2PYDT2BB?:display_count=n&:origin=viz_share_link. Using the "city" filter, you can find tailored recommendations for top cuisines, restaurant types, and cost ranges specific to your chosen location.
+
+#### For diners
+If you are looking to experience the best restaurants in Bengaluru, refer to my Tableau Interactive Dashboard: https://public.tableau.com/shared/Y2PYDT2BB?:display_count=n&:origin=viz_share_link. You can filter by city and restaurant type to discover the best-rated dining options tailored to your preferences.
 
 
 ## Visualisation (Tableau Interactive Dashboard)
