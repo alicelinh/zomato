@@ -4,7 +4,8 @@
 
 
 ## Introduction
-Zomato is India's largest online platform offering comprehensive information, menus, and user reviews of restaurants across various venues. It helps users select the perfect dining spot by providing detailed insights into restaurant offerings, diverse cuisines, taste preferences, and other viable options. This Kaggle dataset comprises a collection of restaurants registered on Zomato in Bengaluru City. The dataset contains over 50,000 rows and 17 columns, offering a wealth of information to explore. By cleaning, transforming, analysing, and visualising the data, the aim is to delve into Zomato's extensive database to uncover hidden patterns, analyse customer behaviors, and identify trends reflecting the evolving tastes of Indian consumers.
+Zomato is India's largest online platform offering comprehensive information, menus, and user reviews of restaurants across various venues. It helps users select the perfect dining spot by providing detailed insights into restaurant offerings, diverse cuisines, taste preferences, and other viable options.
+This Kaggle dataset features a collection of restaurants listed on Zomato in Bengaluru City. With over 50,000 rows and 17 columns, the dataset provides extensive information to explore. By cleaning, transforming, analysing, and visualising this data, the goal is to uncover hidden patterns, analyse customer behavior, and identify trends that reflect the evolving tastes of Indian consumers.
 
 
 ## Table of Contents
