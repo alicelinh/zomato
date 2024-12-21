@@ -1,4 +1,4 @@
-# Zomato Insights: Analysing Popular Restaurants in India
+# Zomato Insights: Analysing Popular Restaurants in India With Python and Tableau
 
 ![image](https://github.com/user-attachments/assets/11bed77f-fbfa-4dc7-82cf-89c11dc7f403)
 
