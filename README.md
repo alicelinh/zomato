@@ -101,7 +101,7 @@ This is a categorical variable representing the location of the restaurant.
 
 
 ## Recommendations
-### Locations: bustling commerical centers
+### Locations: bustling commercial centers
 These areas, being famous tourist attractions, attract many visitors who can experience your restaurant. Additionally, they are home to many young professionals willing to spend on trying new cuisines and dishes.
 
 ### Cuisines
